@@ -14,7 +14,7 @@ function preload(){
   obs_1Img=loadImage("Images/Wood.png");
   obs_2Img=loadImage("Images/Wood_2.png");
   playButton=loadImage("Images/Play.png");
-  bg=loadImage("Images/background.png");
+  bg=loadImage("Images/Background.png");
   bg_2=loadImage("Images/Bg.png");
   bulletImg=loadImage("Images/Bullet.png");
   manImg=loadImage("Images/Man_1.png");
